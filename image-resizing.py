@@ -4,7 +4,6 @@ Created on Tue Jan  4 11:30:19 2022
 
 @author: Mary Beth Cassity
 """
-
 from PIL import Image 
 import os
 
