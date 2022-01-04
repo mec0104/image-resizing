@@ -1,5 +1,5 @@
 # image-resizing
-resize images while maintaining image center and aspect ratio, the images will be resized to a square dimensions consistent with the smallest dimension present in the image set
+resize images while maintaining image center and aspect ratio, the images will be resized to square dimensions consistent with the smallest dimension present in the image set
 
 ## Installation
 use pip install to install the following dependencies 
