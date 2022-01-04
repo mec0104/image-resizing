@@ -11,6 +11,6 @@ update the path to the image directory in line 10
 
 update the path to the cropped image folder in line 11 
 
-update the path tothe resized (final) image folder in line 12
+update the path to the resized (final) image folder in line 12
 
 the smallest height in line 52 may need to be adjusted 
