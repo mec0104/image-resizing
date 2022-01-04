@@ -12,7 +12,7 @@ cropped_path = "path\to\im\dir" #path to cropped im folder
 resized_path = "path\to\im\dir" #path to resized im folder 
 
 os.path.exists(im_path) #just checking if the path exists -- you can comment this out 
-os.path.exists(output_path) #just checking if the path exists -- you can comment this out 
+os.path.exists(cropped_path) #just checking if the path exists -- you can comment this out 
 
 for ii in os.listdir(im_path):
     file_name = os.path.basename(ii)
